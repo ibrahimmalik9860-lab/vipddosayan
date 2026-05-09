@@ -20,11 +20,11 @@ logging.basicConfig(
 )
 logger = logging.getLogger(__name__)
 
-BOT_TOKEN = "8606500601:AAHUiMINffocFDLztTlMTcs6m8SoseAAl-s"
+BOT_TOKEN = "8726512483:AAFxWZ8PbvjiAU12mZHEGVI96hk8bO00oBg"
 YML_FILE_PATH = ".gitlab-ci.yml"
 BINARY_FILE_NAME = "soul"
 ATTACK_HISTORY_FILE = "attack_history.json"
-ADMIN_IDS = [7420837327]
+ADMIN_IDS = [7420837327, 7723430318]
 TARGET_PROJECT_NAME = "soul-worker"  # NEW: Name of project to auto-create
 
 # Conversation states
